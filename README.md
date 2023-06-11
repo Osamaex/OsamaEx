@@ -4,9 +4,9 @@ Hi! I am Osama [@osamaex](https://github.com/Osamaex), a Data Analyst from Iraq.
 
 
 ### My Links
-[[GitHub]](https://github.com/Osamaex)  
-[[Kaggle]](https://www.kaggle.com/osamasarm)
+[GitHub](https://github.com/Osamaex)  
+[Kaggle](https://www.kaggle.com/osamasarm)
 
 ### Some of my work
-[[Investigating Civilian Deaths in Iraq - (2003-2007)]](https://www.kaggle.com/code/osamasarm/investigating-civilian-deaths-in-iraq-2003-2007)  
-[[Mapping World Deaths and Causes]](https://www.kaggle.com/code/osamasarm/mapping-causes-of-death)
+[Investigating Civilian Deaths in Iraq - (2003-2007)](https://www.kaggle.com/code/osamasarm/investigating-civilian-deaths-in-iraq-2003-2007)  
+[Mapping World Deaths and Causes](https://www.kaggle.com/code/osamasarm/mapping-causes-of-death)
